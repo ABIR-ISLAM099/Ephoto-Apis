@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Photo360 Text Effect Generator 📸
 
 A dynamic Node.js module for generating custom text effects using ePhoto360.com. Crafted with reliability and extensibility in mind.
