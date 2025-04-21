@@ -1,6 +1,6 @@
 {
   "name": "imran-photo360-apis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial API wrapper for generating ephoto360.com image effects",
   "main": "index.js",
   "scripts": {
