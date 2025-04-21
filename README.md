@@ -1,5 +1,9 @@
 # 🌟 Photo360 Text Effect Generator 📸
 
+<p align="center">
+  <img src="https://your-image-url.com/imran-photo-api.png" alt="IMRAN PHOTO API" width="400"/>
+</p>
+
 A dynamic Node.js module for generating custom text effects using ePhoto360.com. Crafted with reliability and extensibility in mind.
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg) 
