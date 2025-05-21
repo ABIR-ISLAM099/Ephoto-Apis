@@ -19,13 +19,13 @@ A dynamic Node.js module for generating custom text effects using ePhoto360.com.
 ## 📦 Installation
 
 ```bash
-npm install imran-photo360-apis
+npm install abir-photo360-apis
 ```
 
 ## 🚀 Quick Start
 
 ```javascript
-const Photo360 = require('imran-photo360-apis');
+const Photo360 = require('abir-photo360-apis');
 
 async function createEffect() {
   const generator = new Photo360();
